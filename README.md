@@ -1,2 +1,2 @@
-# Coyote
-Simple (&amp; ugly) CSS library.
+# CoyoteCSS
+Simple (&amp; ugly) CSS library for simple websites. Made this a while back thought I'd store it somewhere.
